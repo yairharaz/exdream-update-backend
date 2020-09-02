@@ -1,0 +1,647 @@
+<<<<<<< HEAD
+Tue, 21 Jul 2020 14:57:37 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:11:28 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 10:04:11 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 10:08:00 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 10:10:23 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 10:10:27 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 10:28:10 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 10:28:10 GMT - Debug - [{"_id":"5f141e4393fdd381627a55ad","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f141e4393fdd381627a55ae","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."}]
+Sun, 19 Jul 2020 11:59:39 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:00:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:00:41 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:02:03 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:09:48 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:15:45 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:16:25 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:32:11 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:35:15 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:38:47 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:39:19 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:39:24 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:39:31 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:39:35 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:45:30 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:48:09 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:49:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:50:07 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 12:50:33 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:04:03 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:07:27 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:09:50 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:16:03 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:25:10 GMT - Debug - [{"_id":"5f141e4393fdd381627a55ad","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f141e4393fdd381627a55ae","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."}]
+Sun, 19 Jul 2020 13:26:24 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:26:31 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:27:04 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:27:26 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:27:48 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:28:32 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:28:44 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:38:19 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 13:40:02 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 14:53:27 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 14:53:31 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 14:55:21 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:02:11 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:02:41 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:03:13 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:06:26 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:07:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:08:40 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:08:52 GMT - Debug - [{"_id":"5f141e4393fdd381627a55ae","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."}]
+Sun, 19 Jul 2020 15:09:08 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:12:43 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:14:30 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:15:03 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:16:19 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:17:23 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:17:48 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:17:58 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:20:16 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:22:19 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:22:47 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:24:14 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:25:26 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:25:31 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:26:05 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:26:21 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:26:56 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:27:14 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:28:30 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:29:24 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:29:59 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:31:05 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:31:31 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:31:53 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:35:30 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:35:50 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:35:53 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:36:04 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:36:13 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:36:45 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:37:16 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:39:57 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:40:02 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:41:29 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:41:51 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:42:44 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:42:55 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 15:43:43 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 16:47:21 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+Sun, 19 Jul 2020 17:11:58 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 17:43:10 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."}]
+Sun, 19 Jul 2020 19:42:07 GMT - Debug - [{"_id":"5f1484bba1acd3ffbae45374","fullName":"Rani Rahav","userName":"rani@rahav.com","password":"5678","isSeller":true,"imgUrl":"https://art-courses.s3-us-west-1.amazonaws.com/Portrait+Drawing+Fundamentals+(n9!VI%263n5y)/Student+Downloads/Course+Assets/Part+5/Male+Portrait+Reference+(High+Contrast+2).jpg","info":"24 years old. Like to dive, 2 stars certified."},{"_id":"5f1484bba1acd3ffbae45375","fullName":"Yair Lapid","userName":"yair@lapid.com","password":"1234","isSeller":false,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"35 years old. Spot is important part in my life, especially scuba diving."},{"_id":"5f149840a1acd3ffbae4537c","fullName":"Orly Snowboard","userName":"orly@snowboard.com","password":"1234","isSeller":true,"imgUrl":"https://i0.wp.com/zsuttonphoto.com/wp-content/uploads/2019/11/Los-Angeles-Beauty-Photography-19.jpg?fit=3000%2C3750&ssl=1","info":"Ski and snowboard instructor for more than 20 years. Gurn camp resort was founded in 2010. In 2015 Gurn camp was awarded the best freestle resort in France."},{"_id":"5f14986fa1acd3ffbae4537d","fullName":"Dorty Scuba","userName":"dorty@scuba.com","password":"1234","isSeller":true,"imgUrl":"https://glimakra.com/wp-content/uploads/2017/08/Johan-Kauppi-Designer-Portrait-2017.jpg","info":"Dive master, with 12 years experience and more than 3200 dives. Specialized in navigation, night diving, deep diving and rescue."},{"_id":"5f149d6ba1acd3ffbae4537e","fullName":"Yossi Kotz","userName":"yossi@kotz.com","password":"1234","isSeller":false,"imgUrl":"https://www.micmojo.com/wp-content/uploads/2019/01/micmojo_travel_film-1.jpg","info":"28 years old."},{"_id":"5f149d6ba1acd3ffbae4537f","fullName":"Moshe Potz","userName":"moshe@potz.com","password":"1234","isSeller":false,"imgUrl":"https://www.pauldavidsmith.co.uk/wp-content/uploads/2019/08/corporate-portraits-peterborough-48-705x529.jpg","info":"29 years old."}]
+Mon, 20 Jul 2020 06:14:20 GMT - Info - Server is running on port: 3030
+=======
+Sun, 19 Jul 2020 18:34:53 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 18:58:53 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 18:59:20 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:09:12 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:10:23 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:13:40 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:13:57 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:16:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:17:20 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:21:06 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:31:03 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:31:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:31:34 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:33:52 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:34:09 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:34:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:34:53 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:35:11 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:35:34 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:36:29 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:36:48 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:37:27 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:38:48 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:39:09 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:40:08 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:43:39 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 19:54:59 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:09:44 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:10:19 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:11:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:17:09 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:18:06 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:18:51 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:19:44 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:20:30 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:24:11 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:24:35 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:25:54 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:29:08 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:29:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:29:24 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:31:33 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:31:45 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:32:24 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:35:43 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:36:55 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:37:51 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:38:21 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:38:37 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:42:14 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:42:42 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:42:50 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:43:13 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:43:38 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:51:41 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:51:46 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:54:43 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:54:51 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:57:18 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:59:38 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 20:59:53 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:00:32 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:00:50 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:04:22 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:05:09 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:16:24 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:19:01 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:19:46 GMT - Info - Server is running on port: 3030
+Sun, 19 Jul 2020 21:20:05 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:04:45 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:08:25 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:11:49 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:12:25 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:13:00 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:13:44 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:14:22 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:14:28 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:16:18 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:16:31 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:39:30 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:41:51 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:42:52 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:44:13 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:46:14 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:47:26 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:48:27 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:49:37 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:55:39 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:56:31 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 06:58:46 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:04:15 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:05:45 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:07:09 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:11:52 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:11:57 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:12:25 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:12:43 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:15:05 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:15:14 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:15:27 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:17:05 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:17:26 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:19:56 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:20:31 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:21:27 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:22:08 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:23:29 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:24:30 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:25:00 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:25:45 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:26:02 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:26:10 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 07:26:16 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+>>>>>>> 88a50c187553d82aafa066e79899e658a42181a0
+Mon, 20 Jul 2020 08:31:44 GMT - Info - Server is running on port: 3030
+=======
+Mon, 20 Jul 2020 08:24:32 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 08:42:00 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 08:53:02 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 08:53:48 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 09:50:42 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:03:23 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:48:59 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:52:00 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:53:00 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:54:04 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:55:13 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 10:59:43 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:06:36 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:08:32 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:09:43 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:11:02 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:13:13 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:28:42 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:33:16 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:37:13 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:38:36 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 11:42:59 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 12:03:11 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 12:06:36 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 12:13:25 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+Mon, 20 Jul 2020 13:23:28 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 13:37:48 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 13:41:02 GMT - Info - Server is running on port: 3030
+=======
+
+
+Mon, 20 Jul 2020 13:54:54 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 13:59:41 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:00:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:02:09 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:04:46 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:15:51 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:23:53 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:24:56 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:26:20 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:29:21 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:30:02 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:32:31 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:37:11 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:40:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:41:03 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:41:07 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:42:14 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 14:48:13 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:05:05 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:05:50 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:20:28 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:21:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:21:57 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:22:10 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:29:43 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:30:26 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:33:27 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:36:34 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:36:36 GMT - Debug - rani@rr.com, undefined, rani
+Mon, 20 Jul 2020 15:36:36 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: undefined
+Mon, 20 Jul 2020 15:36:36 GMT - Error - [SIGNUP] email, userName and password are required!
+Mon, 20 Jul 2020 15:37:31 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:37:55 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:38:14 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:38:28 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:38:58 GMT - Debug - rani@rr.com, undefined, rani
+Mon, 20 Jul 2020 15:38:58 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: undefined
+Mon, 20 Jul 2020 15:38:58 GMT - Error - [SIGNUP] email, userName and password are required!
+Mon, 20 Jul 2020 15:39:16 GMT - Debug - rani@rr.com, undefined, rani
+Mon, 20 Jul 2020 15:39:16 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: undefined
+Mon, 20 Jul 2020 15:39:16 GMT - Error - [SIGNUP] email, userName and password are required!
+Mon, 20 Jul 2020 15:40:25 GMT - Debug - rani@rr.com, undefined, rani
+Mon, 20 Jul 2020 15:40:25 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: undefined
+Mon, 20 Jul 2020 15:40:25 GMT - Error - [SIGNUP] email, userName and password are required!
+Mon, 20 Jul 2020 15:41:23 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:43:00 GMT - Debug - rani@rr.com, undefined, rani
+Mon, 20 Jul 2020 15:43:00 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: undefined
+Mon, 20 Jul 2020 15:43:00 GMT - Error - [SIGNUP] email, userName and password are required!
+Mon, 20 Jul 2020 15:45:25 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:46:46 GMT - Debug - rani@rr.com, undefined, rani
+Mon, 20 Jul 2020 15:46:46 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: undefined
+Mon, 20 Jul 2020 15:46:46 GMT - Error - [SIGNUP] email, userName and password are required!
+Mon, 20 Jul 2020 15:47:43 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:49:04 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:49:04 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:49:05 GMT - Debug - auth.route - new account created: undefined
+Mon, 20 Jul 2020 15:49:45 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:49:52 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:49:52 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:49:52 GMT - Debug - auth.route - new account created: undefined
+Mon, 20 Jul 2020 15:51:06 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:51:09 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:51:09 GMT - Debug - auth.route - new account created: undefined
+Mon, 20 Jul 2020 15:51:10 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:51:17 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:51:17 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:51:17 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$ZbWjBNuY40FrKNsFibH5gOju0QPXzOi7KNdWlRruVpsNUXGUvL2V.","userName":"rani","_id":"5f15bd75259ca85c10f2115b"}
+Mon, 20 Jul 2020 15:52:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:53:12 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:53:51 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:54:02 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:54:51 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:54:59 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:54:59 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:54:59 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$/rCQenMsmxW28QOmhoHkUeHsSCB3OV.ylaxF7TbJ41EFjM48uiZpW","userName":"rani","_id":"5f15be53350b4b5f4c0feacb"}
+Mon, 20 Jul 2020 15:54:59 GMT - Debug - auth.service - login with userName: rani
+Mon, 20 Jul 2020 15:55:36 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:55:43 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:55:48 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:55:48 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:55:48 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$7LY.mL0q2/W2gwDpIihiIevVAGoWLohKN4tNVkc9yrKl5ZbLvi/2i","userName":"rani","_id":"5f15be8410a3d60504fe3e02"}
+Mon, 20 Jul 2020 15:55:48 GMT - Debug - auth.service - login with userName: rani
+Mon, 20 Jul 2020 15:55:48 GMT - Error - [SIGNUP] ReferenceError: hashPass is not defined
+Mon, 20 Jul 2020 15:56:42 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:56:47 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:56:47 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:56:47 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$HRVBOa0OAG1Q5n33Zt.NTuBuuDO0DazL2gadkpoy0MsyocyQs8pKG","userName":"rani","_id":"5f15bebf946552185c7c2bf3"}
+Mon, 20 Jul 2020 15:56:47 GMT - Debug - auth.service - login with userName: rani
+Mon, 20 Jul 2020 15:56:47 GMT - Error - [SIGNUP] ReferenceError: hashPass is not defined
+Mon, 20 Jul 2020 15:58:24 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 15:58:37 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 15:58:37 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 15:58:37 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$Lodj/wNJi7mpRIit5hf//eCvYg61tobobZ/mC.RsmU8WgJNjtFIxi","userName":"rani","_id":"5f15bf2d4c97284068cc7b56"}
+Mon, 20 Jul 2020 15:58:37 GMT - Error - [SIGNUP] Invalid userName or password
+Mon, 20 Jul 2020 15:59:54 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:00:08 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:00:08 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:00:09 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$mellFq12wDEZvUWBsaGSUuIE0buuvysNDYW7Yb2ysZobbdDUHLGda","userName":"rani","_id":"5f15bf89643db9563cf4c5dc"}
+Mon, 20 Jul 2020 16:00:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:01:15 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:01:28 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:01:28 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:01:28 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$ZtkCcucwjmkqR0OYROOPm.4JVjCVvezMWGgcEjFRT8D9EI6O/Vi0q","userName":"rani","_id":"5f15bfd8d1c94320804d0f1e"}
+Mon, 20 Jul 2020 16:05:29 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:05:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:05:48 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:05:48 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:05:48 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$410inHboDHimOr30afSIkeb2KaNoYO1LPjV1FAOiVIhlZZNivW3P.","userName":"rani","_id":"5f15c0dce7139f04385c5044"}
+Mon, 20 Jul 2020 16:06:11 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:06:52 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:06:55 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:06:55 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:06:55 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$imyTSKARNumrS7Cfuc7XAuLJRWBFnyl1W4jEtRWR3X5rOumabyLQO","userName":"rani","_id":"5f15c11fbd66f65914834647"}
+Mon, 20 Jul 2020 16:09:24 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:09:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:09:45 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:09:45 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:09:45 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$bT/IEk5D3m9ieagp5RMeqe2VkdWo8Qj78BjFTCZ2aUBSnQAVrtAee","userName":"rani","imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15c1c9a0ee063f8098af44"}
+Mon, 20 Jul 2020 16:10:17 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:10:38 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:11:17 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:11:17 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:11:18 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$WEZxesALr8uWg02pL8EBsONvsTWQOwqKoIG6s45oxUW5wwiqV1Qom","userName":"rani","imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15c2269744f929084ca24e"}
+Mon, 20 Jul 2020 16:13:13 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:13:37 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 16:13:38 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 16:13:38 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 16:13:38 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$YkWsr/PCzuGBbOdjpfmdHuS/RlmFHAxaNug.4u55caGCYvQpGn9aW","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15c2b28eca7b59bca54d83"}
+Mon, 20 Jul 2020 17:04:38 GMT - Debug - rani@rr.comm, ranis, rani5
+Mon, 20 Jul 2020 17:04:38 GMT - Debug - auth.service - signup with email: rani@rr.comm, userName: ranis
+Mon, 20 Jul 2020 17:04:38 GMT - Debug - auth.route - new account created: {"email":"rani@rr.comm","password":"$2b$10$VQMn5/TQcrroYVOg2ZPl7e2Lx2XwBp4cZNBak4oGJtozFZuFDV37e","userName":"ranis","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15cea68eca7b59bca54d84"}
+Mon, 20 Jul 2020 17:05:32 GMT - Debug - rani@rr.comasdasdd, raniasdasd, raniasdasdads
+Mon, 20 Jul 2020 17:05:32 GMT - Debug - auth.service - signup with email: rani@rr.comasdasdd, userName: raniasdasd
+Mon, 20 Jul 2020 17:05:32 GMT - Debug - auth.route - new account created: {"email":"rani@rr.comasdasdd","password":"$2b$10$cMJAg0l.6swahRAknpqow.0c.Xq4qflIA5vvQNYCkTzoIycXG3wYi","userName":"raniasdasd","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15cedc8eca7b59bca54d85"}
+Mon, 20 Jul 2020 17:05:36 GMT - Debug - rani@rr.comasdasdd, raniasdasd, raniasdasdads
+Mon, 20 Jul 2020 17:05:36 GMT - Debug - auth.service - signup with email: rani@rr.comasdasdd, userName: raniasdasd
+Mon, 20 Jul 2020 17:05:36 GMT - Debug - auth.route - new account created: {"email":"rani@rr.comasdasdd","password":"$2b$10$L4E0AG9rdC/qcsqkbIJIw.NV9Pg4XmLvUihz8830zi0yTMTmD3S1W","userName":"raniasdasd","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15cee08eca7b59bca54d86"}
+Mon, 20 Jul 2020 17:06:04 GMT - Debug - rani@rr.com, rani, rani
+Mon, 20 Jul 2020 17:06:04 GMT - Debug - auth.service - signup with email: rani@rr.com, userName: rani
+Mon, 20 Jul 2020 17:06:05 GMT - Debug - auth.route - new account created: {"email":"rani@rr.com","password":"$2b$10$V4zavlWHCfwLHNf5Ncx6UufGtJ.lHsOYrinvmRuV63SdEmSJISl2C","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15cefd8eca7b59bca54d87"}
+Mon, 20 Jul 2020 17:07:15 GMT - Debug - rani@rr.comww, raniwwww, raniwwwwwww
+Mon, 20 Jul 2020 17:07:15 GMT - Debug - auth.service - signup with email: rani@rr.comww, userName: raniwwww
+Mon, 20 Jul 2020 17:07:15 GMT - Debug - auth.route - new account created: {"email":"rani@rr.comww","password":"$2b$10$HtoiTrsZYUy.5MIpwl6KAeZe5zFIO/aL3jecsBzoHjtpcZBadUzjC","userName":"raniwwww","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15cf438eca7b59bca54d88"}
+Mon, 20 Jul 2020 17:32:40 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 17:34:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
+Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.service - signup with email: orly@snowboard.com, userName: orly@snowboard.com
+Mon, 20 Jul 2020 17:34:47 GMT - Debug - auth.route - new account created: {"email":"orly@snowboard.com","password":"$2b$10$PZpC/7tgiBSlTMyuVoovSOt3MdR.MaV/92t0jFHrBqqUctO4MRPaa","userName":"orly@snowboard.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15d5b74fc08347885541b8"}
+Mon, 20 Jul 2020 18:32:10 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 20:39:19 GMT - Info - Server is running on port: 3030
+=======
+Mon, 20 Jul 2020 18:48:01 GMT - Info - Server is running on port: 3030
+Mon, 20 Jul 2020 18:52:47 GMT - Debug - orly@snowboard.com, orly@snowboard.com, 1234
+Mon, 20 Jul 2020 18:52:47 GMT - Debug - auth.service - signup with email: orly@snowboard.com, userName: orly@snowboard.com
+Mon, 20 Jul 2020 18:52:47 GMT - Debug - auth.route - new account created: {"email":"orly@snowboard.com","password":"$2b$10$fxJkntoePvb9x5dirNat3eNSM9n/N8vjYQKnu/zt71QimD/2rc97O","userName":"orly@snowboard.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15e7fff6cd023b20f72184"}
+Mon, 20 Jul 2020 18:52:47 GMT - Error - [SIGNUP] Invalid userName or password
+Mon, 20 Jul 2020 19:10:17 GMT - Debug - rani@rahav.com, rani@rahav.com, 1234
+Mon, 20 Jul 2020 19:10:17 GMT - Debug - auth.service - signup with email: rani@rahav.com, userName: rani@rahav.com
+Mon, 20 Jul 2020 19:10:17 GMT - Debug - auth.route - new account created: {"email":"rani@rahav.com","password":"$2b$10$Ktp/FKZ0lh2iA6nbTXgzF./9TD9URCFjgnKW5Ockce5ZORLXQu5ca","userName":"rani@rahav.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ec19f6cd023b20f72185"}
+Mon, 20 Jul 2020 19:19:08 GMT - Debug - yair@lapid.com, yair@lapid.com, 1234
+Mon, 20 Jul 2020 19:19:08 GMT - Debug - auth.service - signup with email: yair@lapid.com, userName: yair@lapid.com
+Mon, 20 Jul 2020 19:19:08 GMT - Debug - auth.route - new account created: {"email":"yair@lapid.com","password":"$2b$10$utLn8mPgUKJ5IMTwBhSC9u/OPMA4CPQ3ycZkKaoudimkCAE/TSg8O","userName":"yair@lapid.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ee2cf6cd023b20f72186"}
+Mon, 20 Jul 2020 19:22:05 GMT - Debug - moshe@potz.com, moshe@potz.com, 1234
+Mon, 20 Jul 2020 19:22:05 GMT - Debug - auth.service - signup with email: moshe@potz.com, userName: moshe@potz.com
+Mon, 20 Jul 2020 19:22:05 GMT - Debug - auth.route - new account created: {"email":"moshe@potz.com","password":"$2b$10$CkC9TFjYVVP.FR7mLc.D7eo6Ng6IpHo/jaoQ2wmZRjFMg/MRlLMiO","userName":"moshe@potz.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15eeddf6cd023b20f72187"}
+Mon, 20 Jul 2020 19:24:07 GMT - Debug - yossi@kotz.com, yossi@kotz.com, 1234
+Mon, 20 Jul 2020 19:24:07 GMT - Debug - auth.service - signup with email: yossi@kotz.com, userName: yossi@kotz.com
+Mon, 20 Jul 2020 19:24:07 GMT - Debug - auth.route - new account created: {"email":"yossi@kotz.com","password":"$2b$10$BlzeGRA1DFehvSqmepqBn.yTx3mNf0R9QZVYeKhN6qvNBvU8R1r6q","userName":"yossi@kotz.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15ef57f6cd023b20f72188"}
+Mon, 20 Jul 2020 19:25:57 GMT - Debug - dorty@scuba.com, dorty@scuba.com, 1234
+Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.service - signup with email: dorty@scuba.com, userName: dorty@scuba.com
+Mon, 20 Jul 2020 19:25:57 GMT - Debug - auth.route - new account created: {"email":"dorty@scuba.com","password":"$2b$10$fnJurdd7xIqCwW3FRaDGAuMv.jedPP4A1F2.Zj4XeELTrUVOOTvwS","userName":"dorty@scuba.com","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f15efc5f6cd023b20f72189"}
+Mon, 20 Jul 2020 20:17:47 GMT - Info - Server is running on port: 3030
+>>>>>>> 69b0b694cd57aab922e242650f9a5398972405f8
+Tue, 21 Jul 2020 06:33:37 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 06:37:03 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:03:03 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:03:10 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:06:54 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:07:16 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:07:53 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:08:04 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:08:19 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:08:27 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:10:55 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:12:35 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:19:47 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 07:21:41 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 08:53:57 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 08:54:22 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 08:55:02 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 08:55:38 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 08:56:07 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 08:56:23 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 09:22:02 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 09:22:16 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 09:22:44 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+>>>>>>> f0611dbf1ddb51542be17f4ea47c275ad5f2960f
+Tue, 21 Jul 2020 15:12:14 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:15:30 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:37:47 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 20:05:49 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 20:10:03 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:25:14 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:25:20 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:25:23 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:25:37 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:25:54 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:26:01 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:26:05 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:27:07 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:28:42 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:28:46 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:29:24 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:29:30 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:29:35 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:34:23 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:36:10 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:36:18 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:36:54 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:37:00 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:37:12 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:37:38 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:37:47 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:37:55 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:40:34 GMT - Info - Server is running on port: 3030
+=======
+Tue, 21 Jul 2020 09:38:25 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 10:55:24 GMT - Debug - ranii@rr.com, rani, 1234
+Tue, 21 Jul 2020 10:55:24 GMT - Debug - auth.service - signup with email: ranii@rr.com, userName: rani
+Tue, 21 Jul 2020 10:55:24 GMT - Debug - auth.route - new account created: {"email":"ranii@rr.com","password":"$2b$10$iR0fxNivEItNS.TKf6nF3uZAuWHWAGJemVespvcBebjRPBBciw/b2","userName":"rani","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f16c99c19ad434664a72e64"}
+=======
+>>>>>>> c208cf4e427835ee9a3bd291c9a5122d07561ab9
+<<<<<<< HEAD
+>>>>>>> 297d45a98394ed8ec07e4afe35b8ecd4d0cafdf1
+Tue, 21 Jul 2020 15:14:54 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:16:22 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:21:42 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:22:39 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:35:56 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:54:01 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:54:04 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:54:11 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:54:17 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:56:10 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 16:00:40 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 19:08:00 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 19:08:07 GMT - Info - Server is running on port: 3030
+=======
+Tue, 21 Jul 2020 15:12:53 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:17:10 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 15:37:03 GMT - Info - Server is running on port: 3030
+Tue, 21 Jul 2020 21:43:03 GMT - Info - Server is running on port: 3030
+>>>>>>> 7d6ec4fa0b5de4408767c0d01b778b81c897aec8
+<<<<<<< HEAD
+Wed, 22 Jul 2020 06:38:04 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 06:48:14 GMT - Info - Server is running on port: 3030
+=======
+<<<<<<< HEAD
+Wed, 22 Jul 2020 06:32:39 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 06:34:44 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 06:34:57 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 06:41:02 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 06:50:47 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 07:41:21 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 11:49:27 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 11:49:50 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 11:50:13 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 11:50:17 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 11:50:21 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 12:11:35 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 12:11:47 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 12:28:36 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 12:32:08 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:37:21 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:44:30 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:44:35 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:45:11 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:45:39 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:46:13 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:47:28 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 13:51:24 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 14:28:08 GMT - Debug - ddddd, dortyddd, 1234dddd
+<<<<<<< HEAD
+Wed, 22 Jul 2020 15:03:09 GMT - Info - Server is running on port: 3030
+=======
+<<<<<<< HEAD
+>>>>>>> 3c5704be2115913cbf412e4d36eb9f0b5405c671
+Wed, 22 Jul 2020 14:59:23 GMT - Info - Server is running on port: 3030
+=======
+Wed, 22 Jul 2020 14:56:25 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 19:39:18 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 19:46:56 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 19:47:32 GMT - Info - Server is running on port: 3030
+Wed, 22 Jul 2020 21:45:24 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 06:04:54 GMT - Info - Server is running on port: 3030
+<<<<<<< HEAD
+Thu, 23 Jul 2020 06:16:05 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 06:31:55 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 06:32:04 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 06:33:26 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 06:33:42 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 06:40:09 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 09:43:01 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 11:37:02 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 11:54:53 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 13:37:58 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 06:11:24 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 16:06:58 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 19:37:21 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 19:55:39 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 20:08:57 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 20:15:43 GMT - Info - Server is running on port: 3030
+=======
+>>>>>>> dc78a34adf2cb45e8595e299dd7ad8322427f912
+<<<<<<< HEAD
+Thu, 23 Jul 2020 06:12:55 GMT - Info - Server is running on port: 3030
+=======
+>>>>>>> 5015e4f1c743bf124b8ae7be81c72f550afd2850
+<<<<<<< HEAD
+>>>>>>> 76d80c033eaeb9b48decf6fd7dc287d60257b834
+Fri, 24 Jul 2020 06:20:11 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 10:03:53 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 19:06:02 GMT - Info - Server is running on port: 3030
+=======
+Thu, 23 Jul 2020 06:36:14 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 12:17:46 GMT - Info - Server is running on port: 3030
+Thu, 23 Jul 2020 16:36:27 GMT - Info - Server is running on port: 3030
+>>>>>>> 137d63fafcbbeef6b7f42ed47bfefa3bedb58eb5
+<<<<<<< HEAD
+Fri, 24 Jul 2020 20:28:22 GMT - Info - Server is running on port: 3000
+=======
+>>>>>>> 8e9da6584ab43f1258874cbe19a8748f2e24f795
+>>>>>>> eba72b10e2463e9a8c839b9ee665da5488498f61
+<<<<<<< HEAD
+Fri, 24 Jul 2020 21:19:15 GMT - Info - Server is running on port: 3000
+Fri, 24 Jul 2020 21:21:55 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 21:27:31 GMT - Info - Server is running on port: 3030
+Fri, 24 Jul 2020 21:34:56 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:12:58 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:14:13 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:21:32 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:25:55 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:29:52 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 07:33:02 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 07:56:33 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:16:48 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:18:15 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:18:26 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 08:26:18 GMT - Info - Server is running on port: 3030
+=======
+Sat, 25 Jul 2020 10:26:37 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 10:52:51 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 10:56:01 GMT - Info - Server is running on port: 3030
+>>>>>>> dcb63fb136b488b7958a0a32068c47901e8085eb
+Sat, 25 Jul 2020 11:23:06 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 11:25:18 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 20:48:43 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 20:49:59 GMT - Info - Server is running on port: 3000
+Sat, 25 Jul 2020 20:50:29 GMT - Info - Server is running on port: 3030
+Sat, 25 Jul 2020 21:15:41 GMT - Debug - yael@www.com, yael, 1234
+Sat, 25 Jul 2020 21:15:41 GMT - Debug - auth.service - signup with email: yael@www.com, userName: yael
+Sat, 25 Jul 2020 21:15:42 GMT - Debug - auth.route - new account created: {"email":"yael@www.com","password":"$2b$10$FMx7SPOLal4ZAmCnPQVW1eDfvlg4l00sCmH.t/7jLm6JIRJglTzOi","userName":"yael","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca0fea213651fdc253aee"}
+Sat, 25 Jul 2020 21:21:09 GMT - Debug - dany@sssss.com, dany, 1234
+Sat, 25 Jul 2020 21:21:09 GMT - Debug - auth.service - signup with email: dany@sssss.com, userName: dany
+Sat, 25 Jul 2020 21:21:09 GMT - Debug - auth.route - new account created: {"email":"dany@sssss.com","password":"$2b$10$IxN94cfgnru4LKT7Yz9xNekxg2RoZ6bR6kGXMkyDrX.tbMO.uHTim","userName":"dany","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca245a213651fdc253af4"}
+Sat, 25 Jul 2020 21:21:58 GMT - Debug - danny@adf.com, danny, 1234
+Sat, 25 Jul 2020 21:21:58 GMT - Debug - auth.service - signup with email: danny@adf.com, userName: danny
+Sat, 25 Jul 2020 21:21:58 GMT - Debug - auth.route - new account created: {"email":"danny@adf.com","password":"$2b$10$yHJrZsCMchiOwjipMRRHQuRFWDHiGd0s5CU9uEb7aBDDM7TFFQS4a","userName":"danny","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca276a213651fdc253af6"}
+Sat, 25 Jul 2020 21:46:43 GMT - Debug - demy@srf.com, demy, 1234
+Sat, 25 Jul 2020 21:46:43 GMT - Debug - auth.service - signup with email: demy@srf.com, userName: demy
+Sat, 25 Jul 2020 21:46:44 GMT - Debug - auth.route - new account created: {"email":"demy@srf.com","password":"$2b$10$xxNl6DPzm7hJM84xX0xMAe7v0t.HstuEO.ylj6ITGyY3dp8sW/Z4S","userName":"demy","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1ca844a213651fdc253afe"}
+Sat, 25 Jul 2020 22:46:06 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 05:45:31 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 06:48:44 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 06:57:19 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 07:00:33 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:05:54 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:12:23 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:16:27 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:17:46 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:43:05 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:43:15 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 10:53:56 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 15:39:20 GMT - Debug - adam@dev.com, Adam, 1234
+Sun, 26 Jul 2020 15:39:20 GMT - Debug - auth.service - signup with email: adam@dev.com, userName: Adam
+Sun, 26 Jul 2020 15:39:20 GMT - Debug - auth.route - new account created: {"email":"adam@dev.com","password":"$2b$10$VAlXSlKrzK/Q2K3QvZ66uuizQ93D0IYNU.1HXzdx3zgiu4RGK1teS","userName":"Adam","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1da3a85c3a013208a607a2"}
+Sun, 26 Jul 2020 15:41:11 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 15:41:58 GMT - Debug - teddy@w.com, Teddy, 1234
+Sun, 26 Jul 2020 15:41:58 GMT - Debug - auth.service - signup with email: teddy@w.com, userName: Teddy
+Sun, 26 Jul 2020 15:41:59 GMT - Debug - auth.route - new account created: {"email":"teddy@w.com","password":"$2b$10$zXd.23VBsxwNQyswe9US8e6iPOnvTmNiLpZA6g07vzb1FuFa7GOoO","userName":"Teddy","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1da447e4be3f20e086eceb"}
+Sun, 26 Jul 2020 15:56:02 GMT - Info - Server is running on port: 3030
+Sun, 26 Jul 2020 15:56:52 GMT - Debug - eric@br.com, Eric, 1234,Eric Ber
+Sun, 26 Jul 2020 15:56:52 GMT - Debug - auth.service - signup with email: eric@br.com, userName: Eric
+Sun, 26 Jul 2020 15:56:53 GMT - Debug - auth.route - new account created: {"email":"eric@br.com","password":"$2b$10$C7E25ZEZk2.c5oc7yGURXOHz3ZHOmL89K35YEcpZKBQZ96ujZirvu","userName":"Eric","fullName":"Eric Ber","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1da7c55d70622b080f974a"}
+Sun, 26 Jul 2020 16:18:45 GMT - Debug - ben@ad.com, benji, 1234,Benji Ron
+Sun, 26 Jul 2020 16:18:45 GMT - Debug - auth.service - signup with email: ben@ad.com, userName: benji
+Sun, 26 Jul 2020 16:18:46 GMT - Debug - auth.route - new account created: {"email":"ben@ad.com","password":"$2b$10$Yb.PVWY8S/X7zubnOCa.5eNI6FXR9v/NkAuJiPiLrGm3NLRL.24Pq","userName":"benji","fullName":"Benji Ron","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5f1dace55d70622b080f974b"}
+Sun, 26 Jul 2020 22:15:30 GMT - Info - Server is running on port: 3030
+Mon, 27 Jul 2020 07:03:31 GMT - Info - Server is running on port: 3030
+Tue, 28 Jul 2020 06:15:37 GMT - Info - Server is running on port: 3030
+Wed, 02 Sep 2020 17:17:57 GMT - Info - Server is running on port: 3030
