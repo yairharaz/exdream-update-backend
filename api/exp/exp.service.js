@@ -14,7 +14,7 @@ async function query(filterBy) {
     const criteria = _buildCriteria(filterBy);
     const collection = await dbService.getCollection('exp');
     try {
-        const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1 }).toArray();
+        const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1 }).limit(+filterBy.limit).skip(+filterBy.skip).toArray();
         return exps
     } catch (err) {
         console.log('ERROR: cannot find exps')
