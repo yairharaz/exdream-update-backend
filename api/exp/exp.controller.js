@@ -5,6 +5,11 @@ async function getExps(req, res) {
     const exps = await expService.query(req.query)
     res.send(exps)
 }
+async function getNumOfExps(req, res) { 
+    const numOfExps = await expService.getNumOfExps()
+    res.send(JSON.stringify(numOfExps))
+}
+
 
 async function getExp(req, res) {
     const exp = await expService.getById(req.params.id)
@@ -31,5 +36,6 @@ module.exports = {
     getExp,
     deleteExp,
     updateExp,
-    addExp
+    addExp,
+    getNumOfExps
 }
