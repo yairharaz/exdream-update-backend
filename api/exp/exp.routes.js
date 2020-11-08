@@ -2,7 +2,7 @@ const express = require('express')
 // const { requireAuth, requireAdmin } = require('../../middlewares/requireAuth.middleware')
 
 
-const { getExps, getExp, deleteExp, addExp , updateExp ,getNumOfExps} = require('./exp.controller')
+const { getExps, getExp, deleteExp, addExp , updateExp } = require('./exp.controller')
 const router = express.Router()
 
 
@@ -11,7 +11,7 @@ const router = express.Router()
 // router.use(requireAuth)
 
 router.get('/', getExps)
-router.get('/num', getNumOfExps)
+
 router.get('/:id', getExp)
 router.delete('/:id', deleteExp)
 router.post('/', addExp)

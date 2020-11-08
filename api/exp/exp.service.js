@@ -7,7 +7,6 @@ module.exports = {
     remove,
     update,
     add,
-    getNumOfExps
 }
 
 
@@ -15,25 +14,15 @@ async function query(filterBy) {
     const criteria = _buildCriteria(filterBy);
     const collection = await dbService.getCollection('exp');
     try {
+        const expsCount = await collection.find(criteria).count();    
         const exps = await collection.find(criteria).sort({[filterBy.sortBy] : 1 }).limit(+filterBy.limit).skip(+filterBy.skip).toArray();
-        return exps
+        return { expsCount , exps }
     } catch (err) {
         console.log('ERROR: cannot find exps')
         throw err;
     }
-}
-async function getNumOfExps() {
     
-    const collection = await dbService.getCollection('exp');
-    try {
-        const numOfExps = await collection.countDocuments({})
-        return numOfExps
-    } catch (err) {
-        console.log('ERROR: cannot find exps')
-        throw err;
-    }
 }
-
 
 async function getById(expId) {
     const collection = await dbService.getCollection('exp');
