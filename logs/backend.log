@@ -754,3 +754,61 @@ Tue, 10 Nov 2020 19:41:42 GMT - Info - Server is running on port: 3030
 Tue, 10 Nov 2020 19:42:40 GMT - Info - Server is running on port: 3030
 Tue, 10 Nov 2020 19:47:30 GMT - Info - Server is running on port: 3030
 Tue, 10 Nov 2020 20:32:39 GMT - Info - Server is running on port: 3030
+Sun, 15 Nov 2020 11:51:34 GMT - Info - Server is running on port: 3030
+Sun, 15 Nov 2020 14:27:42 GMT - Debug - null, or, 1234,null
+Sun, 15 Nov 2020 14:27:42 GMT - Debug - auth.service - signup with email: null, userName: or
+Sun, 15 Nov 2020 14:27:42 GMT - Error - [SIGNUP] email, userName and password are required!
+Sun, 15 Nov 2020 14:27:50 GMT - Debug - null, or, 1234,null
+Sun, 15 Nov 2020 14:27:50 GMT - Debug - auth.service - signup with email: null, userName: or
+Sun, 15 Nov 2020 14:27:50 GMT - Error - [SIGNUP] email, userName and password are required!
+Sun, 15 Nov 2020 14:28:54 GMT - Debug - null, or, 1234,null
+Sun, 15 Nov 2020 14:28:54 GMT - Debug - auth.service - signup with email: null, userName: or
+Sun, 15 Nov 2020 14:28:54 GMT - Error - [SIGNUP] email, userName and password are required!
+Sun, 15 Nov 2020 14:29:02 GMT - Debug - null, or, 1234,null
+Sun, 15 Nov 2020 14:29:02 GMT - Debug - auth.service - signup with email: null, userName: or
+Sun, 15 Nov 2020 14:29:02 GMT - Error - [SIGNUP] email, userName and password are required!
+Sun, 15 Nov 2020 15:07:03 GMT - Debug - fdv@gmail.com, rrrrrrrr, 1234,hgjhdfgh
+Sun, 15 Nov 2020 15:07:03 GMT - Debug - auth.service - signup with email: fdv@gmail.com, userName: rrrrrrrr
+Sun, 15 Nov 2020 15:07:03 GMT - Debug - auth.route - new account created: {"email":"fdv@gmail.com","password":"$2b$10$jLDDVScLJhP.BkajTQE1CO4cCqToJ611op2hRlEZB6FSFzEl88/fG","userName":"rrrrrrrr","fullName":"hgjhdfgh","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb1441760faad17ac518c94"}
+Sun, 15 Nov 2020 15:12:07 GMT - Debug - rddded@gmail.com, rrrr, 1234,rrr rrr
+Sun, 15 Nov 2020 15:12:07 GMT - Debug - auth.service - signup with email: rddded@gmail.com, userName: rrrr
+Sun, 15 Nov 2020 15:12:07 GMT - Debug - auth.route - new account created: {"email":"rddded@gmail.com","password":"$2b$10$x2fxzjqWx0VZnTOQkvxFMOmy.oktceGiPQsX7Hqu/zKudiGg.lMf2","userName":"rrrr","fullName":"rrr rrr","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb1454760faad17ac518c95"}
+Sun, 15 Nov 2020 15:14:05 GMT - Debug - fjgnfj@gmail.com, ytytyt, ytytyty,ytytyty
+Sun, 15 Nov 2020 15:14:05 GMT - Debug - auth.service - signup with email: fjgnfj@gmail.com, userName: ytytyt
+Sun, 15 Nov 2020 15:14:05 GMT - Debug - auth.route - new account created: {"email":"fjgnfj@gmail.com","password":"$2b$10$VQ4rXYHZ4Ie4gsJmYcsu7eVZrjJmY5KV5b6KvnQNCOhrpMHzkzjh.","userName":"ytytyt","fullName":"ytytyty","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb145bd60faad17ac518c96"}
+Sun, 15 Nov 2020 15:14:29 GMT - Debug - tyhtyhtyh@gmail.com, ghhghg, 1234,yhytytyh
+Sun, 15 Nov 2020 15:14:29 GMT - Debug - auth.service - signup with email: tyhtyhtyh@gmail.com, userName: ghhghg
+Sun, 15 Nov 2020 15:14:29 GMT - Debug - auth.route - new account created: {"email":"tyhtyhtyh@gmail.com","password":"$2b$10$Q0dNns53/uceCYEdXUcW4eEnJ8GTIwGybnfLy3x6HUn4UwVlOkfU6","userName":"ghhghg","fullName":"yhytytyh","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb145d560faad17ac518c97"}
+Sun, 15 Nov 2020 15:16:33 GMT - Info - Server is running on port: 3030
+Sun, 15 Nov 2020 15:19:00 GMT - Info - Server is running on port: 3030
+Sun, 15 Nov 2020 15:30:35 GMT - Debug - rkrkrk@gmail.com, rkrkrk, 1234,rkrkrk
+Sun, 15 Nov 2020 15:30:35 GMT - Debug - auth.service - signup with email: rkrkrk@gmail.com, userName: rkrkrk
+Sun, 15 Nov 2020 15:30:35 GMT - Debug - auth.route - new account created: {"email":"rkrkrk@gmail.com","password":"$2b$10$6y3OoikhySDzww68Wpvut.bOF.Gj2ebLSg88yjMPPnA9S5L0qAjXS","userName":"rkrkrk","fullName":"rkrkrk","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb1499b238ad65aac379f50"}
+Sun, 15 Nov 2020 15:31:44 GMT - Debug - rkrkrk@gamil.com, rkrkrk, rkrkrk,rkrkrk
+Sun, 15 Nov 2020 15:31:44 GMT - Debug - auth.service - signup with email: rkrkrk@gamil.com, userName: rkrkrk
+Sun, 15 Nov 2020 15:31:44 GMT - Debug - auth.route - new account created: {"email":"rkrkrk@gamil.com","password":"$2b$10$KXql6hIpGGRzhb2qqqMMtuTK.g8kUhYYYo2HdJIcyscd248gUK.P.","userName":"rkrkrk","fullName":"rkrkrk","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb149e0238ad65aac379f51"}
+Sun, 15 Nov 2020 15:31:44 GMT - Error - [SIGNUP] Invalid userName or password
+Sun, 15 Nov 2020 15:31:57 GMT - Debug - rkrkrk@gamil.com, rkrkrk, rkrkrk,rkrkrk
+Sun, 15 Nov 2020 15:31:57 GMT - Debug - auth.service - signup with email: rkrkrk@gamil.com, userName: rkrkrk
+Sun, 15 Nov 2020 15:31:57 GMT - Debug - auth.route - new account created: {"email":"rkrkrk@gamil.com","password":"$2b$10$vhmcU12VNqulU8kBi5.zs.DRh0lWjKpMYZjh4FDCuXBREC7pJ4cJe","userName":"rkrkrk","fullName":"rkrkrk","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb149ed238ad65aac379f52"}
+Sun, 15 Nov 2020 15:31:57 GMT - Error - [SIGNUP] Invalid userName or password
+Sun, 15 Nov 2020 15:32:00 GMT - Debug - rkrkrk@gamil.com, rkrkrk, rkrkrk,rkrkrk
+Sun, 15 Nov 2020 15:32:00 GMT - Debug - auth.service - signup with email: rkrkrk@gamil.com, userName: rkrkrk
+Sun, 15 Nov 2020 15:32:00 GMT - Debug - auth.route - new account created: {"email":"rkrkrk@gamil.com","password":"$2b$10$WdFwkdpQKhyRLHmIwWFWmeqIjmnBNpyOuzNHTZr3WgTCWW0KNs/AK","userName":"rkrkrk","fullName":"rkrkrk","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb149f0238ad65aac379f53"}
+Sun, 15 Nov 2020 15:32:00 GMT - Error - [SIGNUP] Invalid userName or password
+Sun, 15 Nov 2020 15:32:06 GMT - Debug - rkrkrk@gamil.com, rkrkrk, 1234,rkrkrk
+Sun, 15 Nov 2020 15:32:06 GMT - Debug - auth.service - signup with email: rkrkrk@gamil.com, userName: rkrkrk
+Sun, 15 Nov 2020 15:32:06 GMT - Debug - auth.route - new account created: {"email":"rkrkrk@gamil.com","password":"$2b$10$gIRZ.8vXSxfx3ONLvuklD.LyqLmdDSmN0RmPhlf6kYObcxyGfyDG2","userName":"rkrkrk","fullName":"rkrkrk","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb149f6238ad65aac379f54"}
+Sun, 15 Nov 2020 15:32:45 GMT - Debug - rkrkrk@gmail.com, rkrkrk, 1234,rkrkrk
+Sun, 15 Nov 2020 15:32:45 GMT - Debug - auth.service - signup with email: rkrkrk@gmail.com, userName: rkrkrk
+Sun, 15 Nov 2020 15:32:46 GMT - Debug - auth.route - new account created: {"email":"rkrkrk@gmail.com","password":"$2b$10$hm4syIErZiCOA.JqHYVdjetjdrmFgbDOR2l3MVrlSxyIk3SRzoMyy","userName":"rkrkrk","fullName":"rkrkrk","info":"","isSeller":false,"imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuu4dy4fOi7lH5GxvLcdAoyx5Kf5A7EE7mCA&usqp=CAU","_id":"5fb14a1d238ad65aac379f55"}
+Sun, 15 Nov 2020 15:53:22 GMT - Info - Server is running on port: 3030
+Sun, 15 Nov 2020 17:03:04 GMT - Info - Server is running on port: 3030
+Sun, 15 Nov 2020 20:25:54 GMT - Info - Server is running on port: 3030
+Tue, 17 Nov 2020 17:50:17 GMT - Info - Server is running on port: 3030
+Tue, 17 Nov 2020 18:03:05 GMT - Info - Server is running on port: 3030
+Tue, 17 Nov 2020 20:26:51 GMT - Info - Server is running on port: 3030
+Wed, 18 Nov 2020 12:51:16 GMT - Info - Server is running on port: 3030
+Wed, 18 Nov 2020 15:39:37 GMT - Info - Server is running on port: 3030
+Wed, 18 Nov 2020 17:29:00 GMT - Info - Server is running on port: 3030
+Wed, 18 Nov 2020 18:14:48 GMT - Info - Server is running on port: 3030
